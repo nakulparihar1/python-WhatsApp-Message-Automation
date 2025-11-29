@@ -1,6 +1,6 @@
 import pywhatkit
 
 pywhatkit.sendwhatmsg_instantly(
-    "+917573902057",
+    "+91XNAHAJDAYW",
     "hi i am from up"
 )
